@@ -6,3 +6,4 @@ The dataset is divided into two files :
 The "Grid_model_code.py" is runnable with uploading any file
 for the .py files that need the dataset, on the first lines of the program there will be a variable named "IMAGE_DIR",
 you just need to change the directory (which would be named "directory"), and the code should run without any problem
+Caution : Because of the size limit of GitHub, the dataset are smaller than the original, but it shouldn't ba problem
