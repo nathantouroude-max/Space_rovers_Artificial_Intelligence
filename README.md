@@ -1,6 +1,6 @@
-there are 4 files inside this Github : 3 .py files and one dataset file. 
+there are 5 files inside this Github : 3 .py files and 2 dataset file. 
 there are 2 .py files that need to upload images from the data set. 
-When you download the dataset, there is a file named "image", and when you open it there are two different files :
+The dataset is divided into two files : 
 "ground", which are the dataset of the pre-analyzed moon ground images, and has to be used for the "moon_ground_model_pathfinding.py" file 
 "render", which are the base moon ground images, that need to be uploaded for the "moon_ground_model.py" file
 The "Grid_model_code.py" is runnable with uploading any file
